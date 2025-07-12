@@ -1,9 +1,0 @@
-ID: 187362945
-First Name: yusuf
-Last Name: jabari
-BirthOFDate: 29/7/2000
-City: hebron
-Contact: 0589213746
-GroupID: Beach Workouts
-Body Measurement: Neck: 17, Chest: 115, Waist: 95, Weight: 92, Measurement Date: 20/6/2025
-=============================

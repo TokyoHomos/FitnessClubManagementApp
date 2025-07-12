@@ -1,9 +1,0 @@
-ID: 603871429
-First Name: laila
-Last Name: abu-salem
-BirthOFDate: 23/9/2005
-City: jenin
-Contact: 0548392711
-GroupID: Powerlifting
-Body Measurement: Neck: 12, Chest: 90, Waist: 72, Weight: 62, Measurement Date: 20/6/2025
-=============================
