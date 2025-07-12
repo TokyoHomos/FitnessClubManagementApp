@@ -1,0 +1,9 @@
+ID: 321987345
+First Name: antonio
+Last Name: mht
+BirthOFDate: 7/3/2003
+City: baqa
+Contact: 34534332
+GroupID: Dynamic Stretching
+Body Measurement: Neck: 12, Chest: 12, Waist: 12, Weight: 70, Measurement Date: 22/6/2025
+=============================

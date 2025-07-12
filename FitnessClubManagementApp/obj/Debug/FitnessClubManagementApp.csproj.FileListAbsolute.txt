@@ -1,0 +1,7 @@
+D:\Visual Projects\FitnessClubManagementApp\FitnessClubManagementApp\bin\Debug\FitnessClubManagementApp.exe.config
+D:\Visual Projects\FitnessClubManagementApp\FitnessClubManagementApp\bin\Debug\FitnessClubManagementApp.exe
+D:\Visual Projects\FitnessClubManagementApp\FitnessClubManagementApp\bin\Debug\FitnessClubManagementApp.pdb
+D:\Visual Projects\FitnessClubManagementApp\FitnessClubManagementApp\obj\Debug\FitnessClubManagementApp.csproj.AssemblyReference.cache
+D:\Visual Projects\FitnessClubManagementApp\FitnessClubManagementApp\obj\Debug\FitnessClubManagementApp.csproj.CoreCompileInputs.cache
+D:\Visual Projects\FitnessClubManagementApp\FitnessClubManagementApp\obj\Debug\FitnessClubManagementApp.exe
+D:\Visual Projects\FitnessClubManagementApp\FitnessClubManagementApp\obj\Debug\FitnessClubManagementApp.pdb

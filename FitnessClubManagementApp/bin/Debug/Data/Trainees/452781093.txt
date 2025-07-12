@@ -1,0 +1,9 @@
+ID: 452781093
+First Name: mariam
+Last Name: khalil
+BirthOFDate: 5/5/1998
+City: nablus
+Contact: 0567329184
+GroupID: Strongman Training
+Body Measurement: Neck: 11, Chest: 88, Waist: 70, Weight: 60, Measurement Date: 20/6/2025
+=============================

@@ -1,0 +1,9 @@
+ID: 319874562
+First Name: ahmad
+Last Name: salameh
+BirthOFDate: 12/11/2002
+City: tulkarm
+Contact: 0598471236
+GroupID: Sandbag Training
+Body Measurement: Neck: 15, Chest: 102, Waist: 85, Weight: 78, Measurement Date: 20/6/2025
+=============================
